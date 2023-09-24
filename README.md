@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am worgking as a cae engineer in the mechanical simulation field at SK Hynix.
+
 <!--
 **ilgyuchoi/ilgyuchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
